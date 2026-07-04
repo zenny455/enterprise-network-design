@@ -1,4 +1,4 @@
-# Corporation Enterprise Network
+# Enterprise Network Design
 
 This document is the full configuration reference for a 3-site network built in Cisco Packet Tracer:
  
